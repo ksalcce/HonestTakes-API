@@ -1,6 +1,7 @@
 # Honest Takes
 
 [Live App](https://honest-takes-app.skang28.now.sh/)
+
 [Client Repo](https://github.com/ksalcce/HonestTakesSports-app)
 
 ## Summary
